@@ -1,0 +1,32 @@
+=== Best of 1 (BO1) Pick-Ban ===
+Team A removes 1 map
+Team B removes 1 map
+Team A removes 1 map
+Team B removes 1 map
+Team A removes 1 map
+Team B removes 1 map
+Teams play a knife round to determine the starting sides on decider map.
+
+=== Best of 3 (BO3) Pick-Ban ===
+Team A removes 1 map
+Team B removes 1 map
+Team A picks map 1
+Team B chooses starting side
+Team B picks map 2
+Team A chooses starting side
+Team B removes 1 map
+Team A removes 1 map
+Teams play a knife round to determine the starting sides on decider map.
+
+=== Best of 3 (BO3) Pick-Ban ===
+Team A removes 1 map
+Team B removes 1 map
+Team A picks map 1
+Team B chooses starting side
+Team B picks map 2
+Team A chooses starting side
+Team A picks map 3
+Team B chooses starting side
+Team B picks map 4
+Team A chooses starting side
+Teams play a knife round to determine the starting sides on decider map.
